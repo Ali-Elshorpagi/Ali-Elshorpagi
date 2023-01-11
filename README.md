@@ -13,7 +13,7 @@
 
 <h4 align="left">📫 Connect with me</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-elshorpagi/" target="_blank">
+<a href="https://www.linkedin.com/in/ali-elshorpagi/" target="_blank"  rel="noreferrer">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" height="30" width="30" />
 </a> &ensp;
 
