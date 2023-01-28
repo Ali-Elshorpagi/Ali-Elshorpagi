@@ -6,13 +6,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40" /> </a> &ensp; 
+<img align="left" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40" /> </a> &ensp; 
 <a href="https://www.w3schools.com/c/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C" width="40" height="42" /> <a> &ensp; 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C" width="40" height="42" /> <a> &ensp; 
 <!--<a href="https://www.python.org/" target="_blank"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Pytohn" width="40" height="40" /> </a> &ensp; -->
  <a href="https://git-scm.com/" target="_blank">
- <img src="https://i.postimg.cc/yNXnywFh/git.png" alt="Git" width="40" height="40" /> </a> &ensp;
+ <img align="left" src="https://i.postimg.cc/yNXnywFh/git.png" alt="Git" width="40" height="40" /> </a> &ensp;
 
 <!--
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Elshorpagi&layout=compact&theme=radical) <br>
