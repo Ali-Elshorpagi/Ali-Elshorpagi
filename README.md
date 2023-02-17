@@ -14,10 +14,6 @@
  <a href="https://git-scm.com/" target="_blank">
  <img align="left" src="https://i.postimg.cc/yNXnywFh/git.png" alt="Git" width="40" height="40" /> </a> &ensp;
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </p>
 
 <h4 align="left">📫 Connect with me</h4>
@@ -35,3 +31,6 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" height="30" width="30" /> </a> &ensp;
 
 </p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Elshorpagi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
