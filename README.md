@@ -13,7 +13,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Pytohn" width="40" height="40" /> </a> &ensp; -->
  <a href="https://git-scm.com/" target="_blank">
  <img align="left" src="https://i.postimg.cc/yNXnywFh/git.png" alt="Git" width="40" height="40" /> </a> &ensp;
-
+<br><br>
 </p>
 
 <h4 align="left">📫 Connect with me</h4>
@@ -29,7 +29,7 @@
  
  <a href="https://www.instagram.com/ali_elshorpagi/" target="_blank">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" height="30" width="30" /> </a> &ensp;
-
+<br><br>
 </p>
  
 <img align="left" src="https://camo.githubusercontent.com/ebab6a431893818bfe707febb45add225d29268b8f8092a4fd50b70679878409/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416c692d456c73686f7270616769266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Ali-Elshorpagi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalem0&amp;layout=compact&amp;hide=html&amp;theme=radical&amp;count_private=true" style="max-width: 100%;">
