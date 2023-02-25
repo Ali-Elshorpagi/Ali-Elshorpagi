@@ -1,7 +1,7 @@
 <h1 align='center'> Hi 👋, I'm Ali Elshorpagi </h1>
 
 - I'm a CS Student 💻
-- I'm interested in learning the fundamentals of programming. 💻
+- I'm interested in learning the fundamentals of programming 💻
 - I love playing Chess 
 
 <h3 align="left">Languages and Tools:</h3>
