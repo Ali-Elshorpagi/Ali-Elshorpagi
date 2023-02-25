@@ -2,6 +2,7 @@
 
 - I'm a CS Student 💻
 - I'm interested in learning the fundamentals of programming. 💻
+- I love playing Chess 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
