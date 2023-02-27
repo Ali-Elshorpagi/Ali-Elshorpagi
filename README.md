@@ -20,8 +20,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-elshorpagi/" target="_blank" rel="noreferrer">
-<img align="left" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" height="30"width="30" /> </a> &ensp;
+<a href="https://www.linkedin.com/in/ali-elshorpagi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://twitter.com/AliElshorpagi" target="_blank">
 <img align="left" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="Twitter" height="30" width="30" /> </a> &ensp;
