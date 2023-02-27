@@ -17,8 +17,9 @@
 <br><br>
 </p>
 
-<h4 align="left">📫 Connect with me</h4>
-<p align="left">
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/ali-elshorpagi/" target="_blank" rel="noreferrer">
 <img align="left" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" height="30"width="30" /> </a> &ensp;
 
