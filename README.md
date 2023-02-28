@@ -22,7 +22,7 @@
   &emsp;
 </p>
 
-## <img src="https://github.com/Ali-Elshorpagi/Ali-Elshorpagi/blob/main/img/Connect-with-me.gif" width="10%"> Connect with me
+## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 <p align="center">
 <a href="mailto:ali.elshorpagi11@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/ali-elshorpagi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
