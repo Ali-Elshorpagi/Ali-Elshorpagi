@@ -1,5 +1,8 @@
 <h1 align='center'> Hi 👋, I'm Ali Elshorpagi </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Elshorpagi
+"/> </p>
+
 - I'm a CS Student 💻
 - I'm interested in learning the fundamentals of programming 💻
 - I love playing Chess 
