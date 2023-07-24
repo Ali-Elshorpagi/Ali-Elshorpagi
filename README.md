@@ -32,6 +32,7 @@
 <a href="https://twitter.com/AliElshorpagi"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.facebook.com/alilio02"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/ali_elshorpagi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://curiouscat.live/_Sukuna_"><img src="https://img.shields.io/badge/Q-anonymous-dd6d00?style=plastic" alt="CuriousCat"/></a>
 </p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
