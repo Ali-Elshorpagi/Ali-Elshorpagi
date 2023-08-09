@@ -35,6 +35,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Set Git configurations
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "youremail@example.com"
+
+      - name: Clear Git cache
+        run: git credential-cache exit
+
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
