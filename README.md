@@ -1,4 +1,4 @@
-![image](https://github.com/Ali-Elshorpagi/Ali-Elshorpagi/assets/98808411/af0344fe-2a82-46b4-be99-cfbb040ef31f)<h1 align='center'> Hi 👋, I'm Ali Elshorpagi </h1>
+<h1 align='center'> Hi 👋, I'm Ali Elshorpagi </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Elshorpagi"/> </p>
 
