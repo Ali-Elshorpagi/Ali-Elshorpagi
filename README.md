@@ -40,10 +40,10 @@
 
 <p align="center">
 <a href="mailto:ali.elshorpagi11@gmail.com">
-  <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="45" height="45"/>
+  <img img src="./img/gmail.png" alt="Gmail" width="45" height="45"/>
 </a>
 <a href="https://www.linkedin.com/in/ali-elshorpagi/">
-  <img src="./img/linkedin.svg" alt="LinkedIn" width="45" height="45"/>
+  <img src="./img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://curiouscat.live/_Sukuna_">
   <img src="https://img.shields.io/badge/Q-anonymous-dd6d00?style=plastic" alt="CuriousCat"/>
