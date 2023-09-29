@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋, I'm Ali Elshorpagi </h1>
+![image](https://github.com/Ali-Elshorpagi/Ali-Elshorpagi/assets/98808411/af0344fe-2a82-46b4-be99-cfbb040ef31f)<h1 align='center'> Hi 👋, I'm Ali Elshorpagi </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Elshorpagi"/> </p>
 
@@ -38,17 +38,19 @@
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 
-<p align="center">
+<div align="center">
 <a href="mailto:ali.elshorpagi11@gmail.com">
-  <img img src="./img/gmail.png" alt="Gmail" width="45" height="45"/>
+  <img img src="./img/gmail.png" alt="Gmail" width="47" height="47" align="center">
 </a>
+  &emsp;&emsp;
 <a href="https://www.linkedin.com/in/ali-elshorpagi/">
-  <img src="./img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <img src="./img/linkedin.png" alt="LinkedIn" width="40" height="40" align="center">
 </a>
+  &emsp;&emsp;
 <a href="https://curiouscat.live/_Sukuna_">
-  <img src="https://img.shields.io/badge/Q-anonymous-dd6d00?style=plastic" alt="CuriousCat"/>
+  <img src="./img/ask.png" alt="CuriousCat" width="45" height="45" align="center">
 </a>
-</p>
+</div>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 
