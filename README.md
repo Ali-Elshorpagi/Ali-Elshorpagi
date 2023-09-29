@@ -11,17 +11,28 @@
 <p align="center"> 
   &emsp; 
   <a href="https://devdocs.io/c/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+     <img src="./img/C.svg" alt="C">
   </a> 
   &emsp;
   <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <!-- <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"> -->
-    <img src="./img/cpp.svg" alt="C++">
+    <img src="./img/CPP.svg" alt="C++">
   </a> 
     &emsp;
-    <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="./img/CS.svg" alt="C#">
+  </a> 
+    &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> 
+    <img src="./img/DotNet.svg" alt=".NET">
+  </a> 
+    &emsp;
+  <a href="https://git-scm.com/doc">
+     <img src="./img/Git.svg" alt="Git">
+  </a>
   &emsp;
-    <a href="https://docs.github.com/en"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://docs.github.com/en">
+   <img src="./img/Github.svg" alt="GitHub">
+  </a>
   &emsp;
 </p>
 
