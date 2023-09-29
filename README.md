@@ -11,11 +11,11 @@
 <p align="center"> 
   &emsp; 
   <a href="https://devdocs.io/c/"> 
-     <img src="./img/C.svg" alt="C" width="45" height="45">
+     <img src="./img/c.svg" alt="C" width="45" height="45">
   </a> 
   &emsp;
   <a href="https://cplusplus.com/doc/"> 
-    <img src="./img/CPP.svg" alt="C++" width="45" height="45">
+    <img src="./img/cpp.svg" alt="C++" width="45" height="45">
   </a> 
     &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
@@ -23,11 +23,11 @@
   </a> 
     &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/"> 
-    <img src="./img/DotNet.svg" alt=".NET" width="45" height="45">
+    <img src="./img/dotNet.svg" alt=".NET" width="45" height="45">
   </a> 
     &emsp;
   <a href="https://git-scm.com/doc">
-     <img src="./img/Git.svg" alt="Git" width="45" height="45">
+     <img src="./img/git.svg" alt="Git" width="45" height="45">
   </a>
   &emsp;
   <a href="https://docs.github.com/en">
@@ -39,12 +39,15 @@
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 
 <p align="center">
-<a href="mailto:ali.elshorpagi11@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/ali-elshorpagi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/AliElshorpagi"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.facebook.com/alilio02"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/ali_elshorpagi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://curiouscat.live/_Sukuna_"><img src="https://img.shields.io/badge/Q-anonymous-dd6d00?style=plastic" alt="CuriousCat"/></a>
+<a href="mailto:ali.elshorpagi11@gmail.com">
+  <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="45" height="45"/>
+</a>
+<a href="https://www.linkedin.com/in/ali-elshorpagi/">
+  <img src="./img/linkedin.svg" alt="LinkedIn" width="45" height="45"/>
+</a>
+<a href="https://curiouscat.live/_Sukuna_">
+  <img src="https://img.shields.io/badge/Q-anonymous-dd6d00?style=plastic" alt="CuriousCat"/>
+</a>
 </p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
