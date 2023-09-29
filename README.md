@@ -56,6 +56,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-Elshorpagi&show_icons=true&locale=en&theme=radical" alt="Ali-Elshorpagi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Elshorpagi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ali-Elshorpagi"/> </p>
-
+<br>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" >
 
