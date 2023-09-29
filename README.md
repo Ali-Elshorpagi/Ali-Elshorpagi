@@ -10,28 +10,28 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://devdocs.io/c/" target="_blank"> 
-     <img src="./img/C.svg" alt="C">
+  <a href="https://devdocs.io/c/"> 
+     <img src="./img/C.svg" alt="C" width="45" height="45">
   </a> 
   &emsp;
-  <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <img src="./img/CPP.svg" alt="C++">
+  <a href="https://cplusplus.com/doc/"> 
+    <img src="./img/CPP.svg" alt="C++" width="45" height="45">
   </a> 
     &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img src="./img/CS.svg" alt="C#">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
+    <img src="./img/CS.svg" alt="C#" width="45" height="45">
   </a> 
     &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> 
-    <img src="./img/DotNet.svg" alt=".NET">
+  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
+    <img src="./img/DotNet.svg" alt=".NET" width="45" height="45">
   </a> 
     &emsp;
   <a href="https://git-scm.com/doc">
-     <img src="./img/Git.svg" alt="Git">
+     <img src="./img/Git.svg" alt="Git" width="45" height="45">
   </a>
   &emsp;
   <a href="https://docs.github.com/en">
-   <img src="./img/Github.svg" alt="GitHub">
+   <img src="./img/Github.svg" alt="GitHub" width="45" height="45">
   </a>
   &emsp;
 </p>
