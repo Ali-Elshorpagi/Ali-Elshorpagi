@@ -10,16 +10,20 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v2
+      - name: Generate Data
+        run: npm run generate-data
+      - name: Snake Animation
+        uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Ali-Elshorpagi
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
+          github_user_name: ${{ env.GITHUB_USER_NAME }}
+          svg_out_path: ${{ env.SVG_OUT_PATH }}
       - name: Push to Output Branch
         env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }} # Replace with your PAT secret
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_USER_NAME: Ali-Elshorpagi
+          SVG_OUT_PATH: dist/github-contribution-grid-snake.svg
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
