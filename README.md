@@ -51,7 +51,7 @@
   <img src="./img/linkedin.png" alt="LinkedIn" width="40" height="40" align="center">
 </a>
   &emsp;&emsp;
-<a href="https://curiouscat.live/__Sukuna__">
+<a href="https://curiouscat.live/__elshorpagi__">
   <img src="./img/ask.png" alt="CuriousCat" width="45" height="45" align="center">
 </a>
 </div>
