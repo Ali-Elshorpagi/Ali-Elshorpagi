@@ -14,13 +14,13 @@
 	
 • 💻 Backend developer experienced in ASP.NET Core and building RESTful APIs  
 <br>
-• 🗄️ Familiar with EF Core, SQL Server, LINQ, and clean backend architectures  
-<br>
-• ♟️ Enjoys playing chess  
+• 🗄️ Familiar with EF Core, SQL Server, LINQ, and clean backend architectures   
 <br>
 • 🧠 Strong foundation in CS fundamentals like Data Structures and Algorithms  
 <br>
 • 🚀 Passionate about continuous learning and contributing to collaborative backend development teams  
+<br>
+• ♟️ Enjoys playing chess 
 
 </p>
 
