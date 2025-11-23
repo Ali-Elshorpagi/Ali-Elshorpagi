@@ -20,10 +20,8 @@
 <br>
 • 🚀 Passionate about continuous learning and contributing to collaborative backend development teams  
 <br>
-• ♟️ Enjoys playing chess 
-
+• ♟️ Enjoys reading books, playing chess, and spending time with friends and family
 </p>
-
 
 ---
 
