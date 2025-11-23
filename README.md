@@ -4,10 +4,10 @@
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Software%20Engineer%20|%20.NET%20Developer%20;&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Elshorpagi"/>
-  </p>
+  	<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
+	<p align="center">
+  		<img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&style=flat-rounded&color=ff0066" alt="Profile Views"/>
+	</p>
 </p> 
 
 <p align="center">
